@@ -26,7 +26,7 @@ export const stock = [
         name: 'Air Force',
         description: 'Air Force White & Black',
         price: 15000,
-        photo: '/image/Air-Force-Black&White.jpg.png',
+        photo: '/image/Air-Force-Black&White.jpg',
     },
     {
         id: 5,

@@ -12,9 +12,8 @@ export const NavBar = () => {
                     </div>
                     <nav>
                         <ul className='nav-links'>
-                            <li><a href="#"> Services </a></li>
-                            <li><a href="#"> Projects</a></li>
-                            <li><a href="#"> About</a></li>
+                            <Link className='link' to="/">Inicio</Link>
+                            <Link className='link' to="/catalogo">Catalogo</Link>
                         </ul>
                     </nav>
                     <a href="#" className='btn'><button>Contact</button></a>

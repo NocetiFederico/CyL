@@ -1,0 +1,49 @@
+.card-list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+
+}
+.card-list .card{
+    margin: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(41, 41, 41);
+    border-radius: 10px;
+    box-shadow: 0px 0px 43px black;
+    transition: 1s;
+    padding: 21px;
+
+    display: flex;
+    align-items: center;
+}
+
+.card-list img{
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+}
+.card p, h5{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-size: large;
+    margin: 2px;
+}  
+.card button{
+
+    margin: 5px;
+    background-color: rgb(255, 131, 199);
+    border-radius: 16px;
+    padding: 5px;
+    border: none;
+
+    transition: 0.3s;
+
+}
+.card button:hover{
+
+    box-shadow: 0px 0px 20px rgb(255, 131, 199);
+
+    
+}

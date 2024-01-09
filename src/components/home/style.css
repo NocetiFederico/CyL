@@ -2,7 +2,7 @@
 
 
     text-align: center;
-    margin: 100px;
+    margin: 60px;
 
 
 }
@@ -10,8 +10,17 @@
 .info-home h4{
 
     font-weight: bolder;
-    font-size: larger;
-    margin: 15px;
+    font-size: 66px;
+    background-color: #ff80c0;
+    padding: 20px;
+    border-radius: 30px;
+    display: inline-block;
+    margin: 20px;
+}
+.info-home p{
+
+    color: black;
+
 }
 
 .info-home .info-plus{
