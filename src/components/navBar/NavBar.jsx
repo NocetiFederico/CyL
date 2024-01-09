@@ -8,7 +8,7 @@ export const NavBar = () => {
             <div className='calls-header'>
                 <header className='header'>
                     <div className='logo'>
-                        <img src="../../../public/image/logo.jpg" alt="logo-img" />
+                        <img src="/image/logo.jpg" alt="logo-img" />
                     </div>
                     <nav>
                         <ul className='nav-links'>

@@ -28,13 +28,13 @@ export const Home = () => {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="../../../public/image/perchero-home-carrusel-1.jpg" alt="carrusel-img" />
+                        <img src="/image/perchero-home-carrusel-1.jpg" alt="carrusel-img" />
                     </div>
                     <div class="carousel-item">
-                        <img src="../../../public/image/perchero-home-carrusel-2.jpg" alt="carrusel-img" />
+                        <img src="/image/perchero-home-carrusel-2.jpg" alt="carrusel-img" />
                     </div>
                     <div class="carousel-item">
-                        <img src="../../../public/image/tienda-home-carrusel.jpg" alt="carrusel-img" />
+                        <img src="/image/tienda-home-carrusel.jpg" alt="carrusel-img" />
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
