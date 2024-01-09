@@ -1,0 +1,57 @@
+.info-home{
+
+
+    text-align: center;
+    margin: 100px;
+
+
+}
+
+.info-home h4{
+
+    font-weight: bolder;
+    font-size: larger;
+    margin: 15px;
+}
+
+.info-home .info-plus{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    padding: 50px;
+
+}
+
+.info-home .carousel .carousel-control-next .carousel-control-prev-icon{
+
+    color: black;
+
+}
+
+.info-home .btn-wsp{
+
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 55px;
+    right: 30px;
+    background-color: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0, 0 , 0, 0.3);
+    z-index: 100; 
+
+}
+
+.btn-wsp:hover{
+
+    text-decoration: none;
+    color: #0df053;
+    background: #fff;
+}
