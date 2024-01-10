@@ -1,5 +1,5 @@
 
-export const Stock = [
+export const stock = [
     {
         id: 1,
         name: 'Air Force',
