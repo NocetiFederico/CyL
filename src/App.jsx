@@ -4,7 +4,7 @@ import { NavBar } from './components/navBar/NavBar'
 import { Catalogo } from './components/catalogo/Catalogo'
 import { Home } from './components/home/Home'
 import { Footer } from './components/footer/Footer'
-import { ProductoDetallado } from './components/productoDetallado/productoDetallado'
+import { ProductoDetallado } from './components/productoDetallado/ProductoDetallado'
 import {
     BrowserRouter as Router,
     Route,
