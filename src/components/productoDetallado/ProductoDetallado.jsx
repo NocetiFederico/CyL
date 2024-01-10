@@ -1,5 +1,5 @@
 import React from "react";
-import { stock } from "../../data/stock";
+// import { stock } from "../../data/Stock";
 import { useParams } from "react-router-dom";
 import './style.css'
 import Swal from "sweetalert2";
